@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:ital,wght@0,200..800;1,200..800&family=Marcellus+SC&family=Poppins:wght@300;400&display=swap");
+
+#root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+input {
+  accent-color: #ffeb80;
+}
+body {
+  font-family: "Marcellus SC", "Marcellus SC", serif;
+  background-color: #333333;
+  color: white;
+}
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+}
